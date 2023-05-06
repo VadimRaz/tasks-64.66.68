@@ -1,0 +1,15 @@
+D:\GB\C#_seminar3\task 23\bin\Debug\net7.0\task 23.exe
+D:\GB\C#_seminar3\task 23\bin\Debug\net7.0\task 23.deps.json
+D:\GB\C#_seminar3\task 23\bin\Debug\net7.0\task 23.runtimeconfig.json
+D:\GB\C#_seminar3\task 23\bin\Debug\net7.0\task 23.dll
+D:\GB\C#_seminar3\task 23\bin\Debug\net7.0\task 23.pdb
+D:\GB\C#_seminar3\task 23\obj\Debug\net7.0\task 23.csproj.AssemblyReference.cache
+D:\GB\C#_seminar3\task 23\obj\Debug\net7.0\task 23.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#_seminar3\task 23\obj\Debug\net7.0\task 23.AssemblyInfoInputs.cache
+D:\GB\C#_seminar3\task 23\obj\Debug\net7.0\task 23.AssemblyInfo.cs
+D:\GB\C#_seminar3\task 23\obj\Debug\net7.0\task 23.csproj.CoreCompileInputs.cache
+D:\GB\C#_seminar3\task 23\obj\Debug\net7.0\task 23.dll
+D:\GB\C#_seminar3\task 23\obj\Debug\net7.0\refint\task 23.dll
+D:\GB\C#_seminar3\task 23\obj\Debug\net7.0\task 23.pdb
+D:\GB\C#_seminar3\task 23\obj\Debug\net7.0\task 23.genruntimeconfig.cache
+D:\GB\C#_seminar3\task 23\obj\Debug\net7.0\ref\task 23.dll

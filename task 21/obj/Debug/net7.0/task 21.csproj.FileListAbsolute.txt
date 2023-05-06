@@ -1,0 +1,15 @@
+D:\GB\C#_seminar3\task 21\bin\Debug\net7.0\task 21.exe
+D:\GB\C#_seminar3\task 21\bin\Debug\net7.0\task 21.deps.json
+D:\GB\C#_seminar3\task 21\bin\Debug\net7.0\task 21.runtimeconfig.json
+D:\GB\C#_seminar3\task 21\bin\Debug\net7.0\task 21.dll
+D:\GB\C#_seminar3\task 21\bin\Debug\net7.0\task 21.pdb
+D:\GB\C#_seminar3\task 21\obj\Debug\net7.0\task 21.csproj.AssemblyReference.cache
+D:\GB\C#_seminar3\task 21\obj\Debug\net7.0\task 21.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#_seminar3\task 21\obj\Debug\net7.0\task 21.AssemblyInfoInputs.cache
+D:\GB\C#_seminar3\task 21\obj\Debug\net7.0\task 21.AssemblyInfo.cs
+D:\GB\C#_seminar3\task 21\obj\Debug\net7.0\task 21.csproj.CoreCompileInputs.cache
+D:\GB\C#_seminar3\task 21\obj\Debug\net7.0\task 21.dll
+D:\GB\C#_seminar3\task 21\obj\Debug\net7.0\refint\task 21.dll
+D:\GB\C#_seminar3\task 21\obj\Debug\net7.0\task 21.pdb
+D:\GB\C#_seminar3\task 21\obj\Debug\net7.0\task 21.genruntimeconfig.cache
+D:\GB\C#_seminar3\task 21\obj\Debug\net7.0\ref\task 21.dll
